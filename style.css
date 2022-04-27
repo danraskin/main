@@ -54,7 +54,7 @@ main{
 }
 
 /*for screens */
-@media only screen and (max-width:600px){
+@media only screen and (max-width:900px){
   #wrapper{
     width:100%;
   }
