@@ -1,5 +1,5 @@
 #wrapper{
-  width:800px;
+  width:1000px;
   height:1200px;
   /*margin: 0 auto;*/
 }
@@ -12,7 +12,7 @@ a{
 }
 #unseen{
   height:100px;
-  padding:0 18%;
+  padding:0% 25% 0% 25%;
 }
 aside{
   font-size: 12px;
@@ -51,7 +51,7 @@ main{
 /*for screens */
 @media only screen
  /* and (min-device-width: 414px)*/ 
-  and (max-device-width: 1040px) 
+  and (max-width: 600px) 
 /*  and (-webkit-min-device-pixel-ratio: 3)*/{
   #wrapper{
     width:100%;
@@ -81,10 +81,4 @@ main{
   }
 }
 }
-
-
-
-
-
-
 
