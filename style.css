@@ -3,7 +3,6 @@
   height:1200px;
   /*margin: 0 auto;*/
 }
-
 .summary{
   text-align:justify;
   margin: 0 30px;
@@ -15,7 +14,6 @@ a{
   height:100px;
   padding:0 18%;
 }
-
 aside{
   font-size: 12px;
   background-color:#1c1a1a;
@@ -26,12 +24,10 @@ aside{
   clear:left;
   height: 410px;
 }
-
 #aside2{
   background-color:#d6d1d2;
   height:790px;
   color:black;
-  
 }
 h1{
   font-size: 20px;
@@ -56,7 +52,7 @@ main{
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3){
+/*  and (-webkit-min-device-pixel-ratio: 3)*/{
   #wrapper{
     width:100%;
   }
