@@ -21,9 +21,9 @@ aside{
   font-size: 12px;
   background-color:#1c1a1a;
   color:lightgrey;
- padding: 1% 1.5% 1% 1.5%;
+  padding: 1% 1.5% 1% 1.5%;
   float:left;
-  width:160px;
+  width:20%;
   clear:left;
   height: 410px;
 }
@@ -59,7 +59,7 @@ main{
     width:100%;
   }
   aside{
-   width:640px;
+   width:90%;
    margin:auto;
    padding:1% 20% 1% 20%;
    text-align:center;
@@ -76,6 +76,15 @@ main{
   }
 }
 }
+
+
+
+
+
+
+
+
+
 
 
 
