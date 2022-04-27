@@ -55,6 +55,7 @@ main{
 /*  and (-webkit-min-device-pixel-ratio: 3)*/{
   #wrapper{
     width:100%;
+    height:auto;
   }
   aside{
    width:70%;
