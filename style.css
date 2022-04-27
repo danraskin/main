@@ -1,8 +1,8 @@
 # main
 #wrapper{
   width:800px;
-  height:auto;
-  margin: 0 auto;
+  height:1200px;
+  /*margin: 0 auto;*/
 }
 
 .summary{
@@ -21,17 +21,18 @@ aside{
   font-size: 12px;
   background-color:#1c1a1a;
   color:lightgrey;
-  padding: 0% 1.5% 1.5%;
+ padding: 1% 1.5% 1% 1.5%;
   float:left;
-  width:20%;
+  width:160px;
   clear:left;
   height: 410px;
 }
 
 #aside2{
   background-color:#d6d1d2;
-  height:800px;
+  height:790px;
   color:black;
+  
 }
 h1{
   font-size: 20px;
@@ -46,7 +47,7 @@ hr{
 }
 main{
   background-color:mistyrose;
-  padding:0% 2%;
+  padding:2%;
   float:right;
   width:73%;
   height:1200px;
@@ -58,9 +59,9 @@ main{
     width:100%;
   }
   aside{
-   width:60%;
+   width:640px;
    margin:auto;
-    padding:1% 20% 1% 20%;
+   padding:1% 20% 1% 20%;
    text-align:center;
     height:auto;
     float:none;
@@ -75,3 +76,21 @@ main{
   }
 }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
