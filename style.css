@@ -54,7 +54,10 @@ main{
 }
 
 /*for screens */
-@media only screen and (max-width:900px){
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3){
   #wrapper{
     width:100%;
   }
@@ -72,9 +75,7 @@ main{
     padding:1% 5% 1% 5%;
     height:auto;
     float:none;
-
   }
-}
 }
 
 
